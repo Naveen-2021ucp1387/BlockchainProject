@@ -26,7 +26,7 @@ const Modal = ({ setModalOpen, contract }) => {
     <>
       <div className="modalBackground">
         <div className="modalContainer">
-          <div className="title">Share with</div>
+          {/* <div className="title">Share with</div>
           <div className="body">
             <input
               type="text"
@@ -48,10 +48,10 @@ const Modal = ({ setModalOpen, contract }) => {
             >
               Cancel
             </button>
-            <button onClick={() => sharing()}>Share</button>
-          </div>
-        </div>
+            <button onClick={() => sharing()}>Share</button> */}
+        {/* </div> */}
       </div>
+    </div >
     </>
   );
 };
