@@ -7,11 +7,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: #121212;
   color: #e0e0e0;
-  background-image: url("D:\Code\BlockChainProject\client\public\path_to_pixel_background.png");
+  background-image: url("../public/path_to_pixel_background.png");
   background-size: cover;
   background-attachment: fixed;
 }
-
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;

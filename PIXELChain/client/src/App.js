@@ -45,14 +45,6 @@ function App() {
 
   return (
     <>
-      {/* {!modalOpen && (
-        // <button className="share" onClick={() => setModalOpen(true)}>
-        //   Share
-        // </button>
-      )} */}
-      {/* {modalOpen && ( */}
-        {/* // <Modal setModalOpen={setModalOpen} contract={contract}></Modal> */}
-      {/* // )} */}
       <div className="App">
         <h1 style={{ color: "white" }}>PixelChain</h1>
         <div className="bg"></div>
